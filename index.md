@@ -15,8 +15,8 @@ Outside of academia, I began my journey as a rower/coxswain in 2021 and went on 
 
 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
+- **LLM-based Agents:** 
+- **AI for Science:** 
 
 
 ## Awards

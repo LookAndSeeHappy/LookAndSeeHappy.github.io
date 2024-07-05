@@ -74,7 +74,7 @@
       <a href="https://github.com/Hanchao-Zhang" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://www.enar.org/meetings/spring2023/program/scientific_program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <!-- <a href="assets/files/ENAR2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#7b5aa6">Invitedlin Talk</i></strong>
+      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
     </div>
   </div>
 </div>

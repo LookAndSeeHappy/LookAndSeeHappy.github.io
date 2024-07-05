@@ -25,17 +25,18 @@ Outside of academia, I began my journey as a rower/coxswain in 2021 and went on 
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/projects.md %} -->
+{% comment %}
+{% include_relative _includes/projects.md %}
 
-<!-- {% include_relative _includes/talks.md %} -->
-
+{% include_relative _includes/talks.md %}
+{% endcomment %}
 <!-- ## Collaboration
 
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**.  -->
 
-
-<!-- {% include_relative _includes/services.md %} -->
-
+{% comment %}
+{% include_relative _includes/services.md %}
+{% endcomment %}
 
 <!-- ## Resources
 - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang

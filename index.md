@@ -25,6 +25,7 @@ Outside of academia, I began my journey as a rower/coxswain in 2021 and went on 
 
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/activity.md %}
 
 {% comment %}
 {% include_relative _includes/projects.md %}

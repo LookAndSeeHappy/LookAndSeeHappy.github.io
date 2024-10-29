@@ -16,11 +16,12 @@ Outside of academia, I began my journey as a rower/coxswain in 2021 and went on 
 
 ## Research Interests
 - **NLP & LLMs:** sentiment analysis, language and cognition, LLMs bias, LLMs evaluation and interpretation, NLP applications for mental health and well-being
-- **Human-Language Model Interaction:** Human-LM collaboration and alignment, chatbots, digital human
-- **Computational Linguistics & Social Science:** social behavior understanding, subjective information mining
+- **Human-Language Model Interaction:** Human-LM collaboration and alignment, chatbots
+- **Computational Linguistics & Social Science:** social behavior understanding
 - **AI for Science** 
 
 ## Awards
+- **[Oct. 2024]** 2024 DIANins Scholarship
 - **[Dec. 2022]** *Merit Student* of ShanghaiTech University
 
 

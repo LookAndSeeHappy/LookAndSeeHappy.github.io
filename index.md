@@ -3,7 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I'm a master's student in Computer and Information Science (CIS) at the<a href="https://www.upenn.edu/" target="_blank"> University of Pennsylvania</a>, working as a research assistant under the mentorship of Prof.<a href="https://www.cis.upenn.edu/~ungar/" target="_blank"> Lyle Ungar</a>. 
+I'm working with Prof.<a href="https://www.cis.upenn.edu/~ccb/" target="_blank"> Chris Callison-Burch</a> as a research assistant at the<a href="https://www.upenn.edu/" target="_blank"> University of Pennsylvania</a>.
+
+Previously, I graduated with a master's degree in Computer and Information Science (CIS) at the Upenn, working as a research assistant and finishing my master's thesis under the mentorship of Prof.<a href="https://www.cis.upenn.edu/~ungar/" target="_blank"> Lyle Ungar</a>. 
 
 <!-- My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest. -->
 

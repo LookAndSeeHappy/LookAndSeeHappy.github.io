@@ -26,7 +26,7 @@ Outside of academia, I began my journey as a rower/coxswain in 2021 and went on 
 - **[Oct. 2024]** 2024 DIANins Scholarship
 - **[Dec. 2022]** *Merit Student* of ShanghaiTech University
 
-
+{% include_relative _includes/services.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/activity.md %}
 
@@ -39,9 +39,9 @@ Outside of academia, I began my journey as a rower/coxswain in 2021 and went on 
 
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**.  -->
 
-{% comment %}
-{% include_relative _includes/services.md %}
-{% endcomment %}
+
+
+
 
 <!-- ## Resources
 - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang

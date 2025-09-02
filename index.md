@@ -16,11 +16,11 @@ Prior to joining the master's program, I completed my bachelor's degree in Compu
 Outside of academia, I began my journey as a rower/coxswain in 2021 and went on to win several national awards on behalf of ShanghaiTech University. Now, I'm a member of Wharton Crew. In addition, I am a comedian specializing in crosstalk, a traditional language art in Chinese comedy, which is one of the reasons why I am interested in research about language.
 
 
-<!-- ## Research Interests
-- **NLP & LLMs:** sentiment analysis, language and cognition, LLMs bias, LLMs evaluation and interpretation, NLP applications for mental health and well-being
-- **Human-Language Model Interaction:** Human-LM collaboration and alignment, chatbots
-- **Computational Linguistics & Social Science:** social behavior understanding
-- **AI for Science & Applied Machine Learning**  -->
+## Research Interests
+- **Natural Language Processing:** reasoning, dialogue systems, LLMs bias, LLMs evaluation
+- **Multimodal Learning:** VLMs evaluation, 3D understanding
+- **Human-Centered AI:** culture-aware AI, Human-Language Model collaboration and alignment
+- **AI for Science:** scientific discovery, scientific question answering
 
 ## Awards
 - **[Oct. 2024]** 2024 DIANins Scholarship

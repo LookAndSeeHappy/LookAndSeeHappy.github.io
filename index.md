@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm working with Prof.<a href="https://www.cis.upenn.edu/~ccb/" target="_blank"> Chris Callison-Burch</a> as a research assistant at the<a href="https://www.upenn.edu/" target="_blank"> University of Pennsylvania</a>.
+I am an incoming Ph.D. student at The University of Texas at Austin, starting in Fall 2026, advised by Prof.<a href="https://chan0park.github.io/" target="_blank"> Chan Young Park</a>. Now, I'm working with Prof.<a href="https://www.cis.upenn.edu/~ccb/" target="_blank"> Chris Callison-Burch</a> as a research assistant at the<a href="https://www.upenn.edu/" target="_blank"> University of Pennsylvania</a>.
 
 Previously, I graduated with a master's degree in Computer and Information Science (CIS) at the Upenn, working as a research assistant and finishing my master's thesis under the mentorship of Prof.<a href="https://www.cis.upenn.edu/~ungar/" target="_blank"> Lyle Ungar</a>. 
 

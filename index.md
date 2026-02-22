@@ -3,15 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am an incoming Ph.D. student at The University of Texas at Austin, starting in Fall 2026, advised by Prof.<a href="https://chan0park.github.io/" target="_blank"> Chan Young Park</a>. Now, I'm working with Prof.<a href="https://www.cis.upenn.edu/~ccb/" target="_blank"> Chris Callison-Burch</a> as a research assistant at the<a href="https://www.upenn.edu/" target="_blank"> University of Pennsylvania</a>.
+I am an incoming Ph.D. student at <a href="https://www.utexas.edu/" target="_blank">The University of Texas at Austin</a>, starting in Fall 2026, advised by Prof.<a href="https://chan0park.github.io/" target="_blank"> Chan Young Park</a>. Now, I'm working with Prof.<a href="https://www.cis.upenn.edu/~ccb/" target="_blank"> Chris Callison-Burch</a> as a research assistant at the<a href="https://www.upenn.edu/" target="_blank"> University of Pennsylvania</a>.
 
-Previously, I graduated with a master's degree in Computer and Information Science (CIS) at the Upenn, working as a research assistant and finishing my master's thesis under the mentorship of Prof.<a href="https://www.cis.upenn.edu/~ungar/" target="_blank"> Lyle Ungar</a>. 
+<!-- Previously, I graduated with a master's degree in Computer and Information Science (CIS) at the Upenn, working as a research assistant and finishing my master's thesis under the mentorship of Prof.<a href="https://www.cis.upenn.edu/~ungar/" target="_blank"> Lyle Ungar</a>.  -->
 
 <!-- My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest. -->
 
 <!-- In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. -->
 
-Prior to joining the master's program, I completed my bachelor's degree in Computer Science and Technology at <a href="https://www.shanghaitech.edu.cn/eng/" target = "_blank"> ShanghaiTech University</a>, where I was advised by Prof. <a href= "https://xmhe.bitbucket.io/" target = "_blank"> Xuming He</a>.
+Prior to joining the master's program in Computer and Information Science (CIS) at Upenn, I completed my bachelor's degree in Computer Science and Technology at <a href="https://www.shanghaitech.edu.cn/eng/" target = "_blank"> ShanghaiTech University</a>, where I was advised by Prof. <a href= "https://xmhe.bitbucket.io/" target = "_blank"> Xuming He</a>.
 
 Outside of academia, I began my journey as a rower/coxswain in 2021 and went on to win several national awards on behalf of ShanghaiTech University. Now, I'm a member of Wharton Crew. In addition, I am a comedian specializing in crosstalk, a traditional language art in Chinese comedy, which is one of the reasons why I am interested in research about language.
 
